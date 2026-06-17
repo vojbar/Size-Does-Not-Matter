@@ -16,6 +16,9 @@ Both racks are designed with a focus on:
 - Hardware organization
 - Aesthetic and practical design
 
+
+![Homelab Setup](IMG_1698.jpg)
+![Homelab Setup](IMG_1723.jpg)
 ---
 
 # 7-inch Networking Rack
