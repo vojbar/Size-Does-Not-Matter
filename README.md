@@ -23,7 +23,7 @@ The infrastructure is divided into two racks, each with a specific purpose:
 
 # 7-inch Networking Rack
 
-The 7-inch rack is dedicated to the networking infrastructure of the entire setup. It is built around Ubiquiti's UniFi ecosystem, bringing routing, switching, wireless connectivity, and network management together within a single platform. Keeping the networking infrastructure in its own dedicated rack makes the network easier to manage, keeps the core connectivity equipment organized in one place, and provides a clear connection between the network and the rest of the infrastructure.
+The 7-inch rack is dedicated to the networking infrastructure of the entire setup. It is built around Ubiquiti's UniFi ecosystem, bringing routing, switching, wireless connectivity, and network management together within a single platform. Keeping the networking infrastructure in its own dedicated rack makes the network easier to manage, keeps the core connectivity equipment organized in one place.
 
 ## Rack Components
 
