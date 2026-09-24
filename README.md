@@ -48,7 +48,7 @@ The 10-inch rack is dedicated to the computing infrastructure of the setup. It i
 - **UniFi Switch Ultra 210W**
 - **0.5U Patch Panel**
 - **4× Raspberry Pi 5 4GB**
-- **0.5UBrush Panel**
+- **0.5U Brush Panel**
 
 The UniFi Switch Ultra is mounted on the upper shelf and provides network connectivity and PoE for all four Raspberry Pi nodes. With a 210W PoE budget, it can power all four nodes simultaneously while retaining significant capacity even under high load. Directly below, the Ethernet Patch Panel keeps the network connections organized and the front of the rack clean. Two SBC shelves hold the four Raspberry Pi nodes, with two on each shelf. Each Raspberry Pi is equipped with a PoE+ Module for power and network connectivity, along with an NVMe storage module connected through the Raspberry Pi 5's PCIe interface. The NVMe SSD serves as the primary boot drive and provides additional local storage. A Brush Panel at the bottom provides a clean path for the remaining cabling and keeps it out of sight.
 
